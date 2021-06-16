@@ -18,7 +18,8 @@ Then install teh brainstat pacage:
 git clone https://github.com/MICA-MNI/BrainStat.git
 cd BrainStat
 python3 setup.py build
-How to run the analysis
+
+##How to run the analysis
 
 From roo folder:
 pyton3 code/analysis_01.py
