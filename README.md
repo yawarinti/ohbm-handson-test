@@ -21,5 +21,7 @@ python3 setup.py build
 
 ## How to run the analysis
 
-From roo folder:
-pyton3 code/analysis_01.py
+cd code
+From code folder:
+
+pyton3 analysis_01.py
